@@ -31,6 +31,4 @@ project/
 │
 ├── README.md                # This file
 ├── main.py                  # Python code (with functions/classes)
-├── layout_plot.png          # Layout figure
-├── aep_simulation.png       # Wake simulation figure
 └── Project_Report.pdf       # Full project report
